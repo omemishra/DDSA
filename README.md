@@ -29,8 +29,6 @@ To use the Domain Data Search and Analysis Tool, follow these steps:
 4. Select the options to process the fetched data.
 5. View the results for each selected option.
 
-For detailed instructions on installation and usage, refer to the [User Guide](user-guide.md).
-
 ## Contributing
 
 Contributions are welcome! If you find a bug or have a suggestion for improvement, please open an issue or submit a pull request.
