@@ -1,0 +1,6 @@
+argparse
+hashlib
+re
+subprocess
+urllib
+colorama
